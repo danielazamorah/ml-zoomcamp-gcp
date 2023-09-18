@@ -8,4 +8,8 @@ Sessions and tasks of the **DataTalksClub💬** [Machine Learning Zoomcamp](http
 
 ## 🚀 Content
 
-[1️⃣ Intro to Machine Learning](nbs/00_intro.ipynb)
+### Theory Notebooks 
+[1️⃣ Introduction](nbs/theory/00_intro.ipynb): notebook that covers a quick example to explain what Machine Learning is, goes over the difference between ML and traditional programming, defines Supervised Learning, what the stages in a Machine Learning project are (according to the CRISP-DM methodology), deep dives into the stage of Model Selection, and introduces to important ML tools such as linear algebra, and the Numpy/Pandas libraries. 
+
+### Homework Notebooks 
+[1️⃣ Introduction HW](nbs/homework/00_intro_hw.ipynb): notebook where we use pandas and numpy to answer initial questions about the data (null values, unique values, aggregates). Also, we calculate the weights of a linear regression model given some selected columns, rows, and target values.
