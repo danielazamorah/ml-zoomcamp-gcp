@@ -13,5 +13,8 @@ Sessions and tasks of the **DataTalksClub💬** [Machine Learning Zoomcamp](http
 
 [1️⃣ Linear Regression with BigQuery](nbs/theory/01_linear_regression.ipynb): notebook that covers theory + implementation of Linear Regression for the [Car Prices Kaggle dataset](https://www.kaggle.com/datasets/CooperUnion/cardataset?resource=download) using `bigframes` Pandas DataFrames and BigQuery ML. More about the tool on [BigQuery DataFrames Docs](https://cloud.google.com/python/docs/reference/bigframes/latest).
 
+[2️⃣ Churn Prediction with Vertex](nbs/theory/02_churn_pred_vertex.ipynb): notebook with Vertex training pipeline for Churn Prediction model on [Telco customer churn Kaggle Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). Making the code developed in the code reusable, portable, and perdurable.
+
 ### Homework Notebooks 
-[0️⃣ Introduction HW](nbs/homework/00_intro_hw.ipynb): notebook where we use pandas and numpy to answer initial questions about the data (null values, unique values, aggregates). Also, we calculate the weights of a linear regression model given some selected columns, rows, and target values.
+[0️⃣ Introduction HW](nbs/homework/00_intro_hw.ipynb)  
+[1️⃣ Linear Regression HW](nbs/homework/01_linear_regression_hw.ipynb)
