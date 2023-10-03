@@ -1,8 +1,19 @@
+# GCP
 gcp_python_client_functions
+bigframes
+google-cloud-aiplatform
+
+# Data Science
 pandas
 numpy
 matplotlib
 seaborn
-bigframes
+
+# Dev environment
 ipykernel
 python-dotenv
+
+# KFP 2
+protobuf
+kfp
+pytz
