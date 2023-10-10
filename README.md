@@ -3,7 +3,7 @@
 ## 🔍 About
 
 
-Sessions and tasks of the **DataTalksClub💬** [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) in [Google Cloud Platform](https://console.cloud.google.com).
+Sessions and tasks of the **DataTalksClub💬** [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) but with [Google Cloud Platform](https://console.cloud.google.com).
 
 
 ## 🚀 Content
