@@ -2,6 +2,7 @@
 gcp_python_client_functions
 bigframes
 google-cloud-aiplatform
+google-cloud-storage
 
 # Data Science
 pandas
@@ -17,3 +18,7 @@ python-dotenv
 protobuf
 kfp
 pytz
+
+# Deployment
+flask
+gunicorn
