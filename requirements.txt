@@ -9,6 +9,7 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
 
 # Dev environment
 ipykernel

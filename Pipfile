@@ -18,6 +18,9 @@ kfp = "*"
 pytz = "*"
 flask = "*"
 gunicorn = "*"
+xgboost = "*"
+google-cloud-storage = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
