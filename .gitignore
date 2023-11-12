@@ -168,3 +168,6 @@ cython_debug/
 
 # Pipelines
 pipeline.json
+
+# Artifacts
+artifacts/
