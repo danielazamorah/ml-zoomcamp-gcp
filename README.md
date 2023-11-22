@@ -87,6 +87,16 @@ In both notebooks, we write KFP components for our implementations and practice 
 
 This is a good practice when working with updates and testing of Vertex pipelines. This way, you work with the same code and avoid the need to make any updates two times (to your testing code and to your pipeline code).
 
+**6️⃣ Tensorflow:** in this section, we focused on learning the basic concepts of Deep Learning and the Tensorflow framework. We created a [notebook]([](nbs/homework/06_tensorflow.ipynb)) where we're using a neural network to predict if an image contains a Bee or a Wasp (using the ["Bee or Wasp" Kaggle Dataset](https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp/code)). We used [Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index) to leverage the use of **free GPUs**. Also, Colab creates a seamless experience to start working with Machine Learning projects (without worrying about the compute or environment).
+
+A private alternative to Colaboratory is Enterprise Colab, where you can create runtimes for people in your organization with the appropriate compute for different projects.
+
+![](assets/auxiliary-images/colab.png)
+
+
+> **Note:** in this homework we didn't talk about hyperparameter tuning for our networks, in this case we can leverage the Hyperparameter Tuning service offered by Vertex. Example code: [GCP Official Hyperparameter Tuning Tensorflow Notebook](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/training/hyperparameter_tuning_tensorflow.ipynb).
+
+
 ## 📞 Contact
 
 Find the links to contact me on my site: https://datasciencedani.super.site 🙋🏽‍♀️
