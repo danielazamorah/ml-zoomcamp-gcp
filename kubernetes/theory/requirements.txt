@@ -1,0 +1,7 @@
+# Predictions working without tensorflow:
+grpcio==1.42.0
+flask
+keras-image-helper
+gunicorn
+tensorflow-protobuf ==2.7.0
+protobuf==3.20.0
