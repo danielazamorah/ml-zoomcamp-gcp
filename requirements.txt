@@ -1,26 +1,31 @@
 # GCP
-gcp_python_client_functions
-bigframes
-google-cloud-aiplatform
-google-cloud-storage
+gcp-python-client-functions==0.0.1
+bigframes==0.15.0
+google-cloud-aiplatform==1.36.4
+google-cloud-storage==2.13.0
 
 # Data Science
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow
+pandas==2.1.3
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.0
+scikit-learn==1.3.2
+tensorflow==2.15.0
+
+# Kubernetes (chapter)
+grpcio==1.59.3
+tensorflow-serving-api==2.14.1
+keras-image-helper==0.0.1
 
 # Dev environment
-ipykernel
-python-dotenv
+ipykernel==6.27.1
+python-dotenv==1.0.0
 
 # KFP 2
-protobuf
-kfp
-pytz
+protobuf==3.20.3
+kfp==2.4.0
+pytz==2023.3.post1
 
 # Deployment
-flask
-gunicorn
+Flask==3.0.0
+gunicorn==21.2.0

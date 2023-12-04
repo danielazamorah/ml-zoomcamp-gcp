@@ -21,6 +21,10 @@ gunicorn = "*"
 xgboost = "*"
 google-cloud-storage = "*"
 scikit-learn = "*"
+tensorflow = "*"
+grpcio = "*"
+tensorflow-serving-api = "*"
+keras-image-helper = "*"
 
 [dev-packages]
 
